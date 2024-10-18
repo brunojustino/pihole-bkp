@@ -4,7 +4,7 @@ Simple project to run pihole when windows start.
 
 Make sure docker running when starting windows.
  
-Create .env file and add: WEBPASSWORD: "mypassword"
+Create .env file and add: WEBPASSWORD=mypassword
 
 Make sure your computer network has fixed ip.
 
